@@ -1,6 +1,7 @@
 from sys import argv
 import os
 from trashlib import prompt,trashParse
+
 PWD = '~'
 prev = PWD
 paths = {
